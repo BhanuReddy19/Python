@@ -1,0 +1,26 @@
+##--- Relationaloperators
+
+Relational operators are used to compare two values.They always return a Boolean value → True or False.
+
+==	Equal to	          5 == 5	True
+!=	Not equal to	      5 != 3	True
+>	Greater than	      7 > 4	True
+<	Less than	          3 < 8	True
+>=	Greater than or equal to	5 >= 5	True
+<=	Less than or equal to        4 <= 6 True
+
+If the comparison is correct/valid → returns True, otherwise False
+
+## --Assignment Operators
+
+Assignment operators are used to assign values to variables it can also perform an operation and then assign.
+
+
+=	Assign value	
++=	Add and assign	
+-=	Subtract and assign	
+*=	Multiply and assign	
+/=	Divide and assign 	
+//=	Floor divide and assign	
+%=	Modulus and assign	
+**=	Power and assign

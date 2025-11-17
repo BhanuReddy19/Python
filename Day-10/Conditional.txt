@@ -1,0 +1,27 @@
+Conditional statements
+ Conditional statements are used to make decisions in a program.It helps the program choose which block of code to execute based on some condition (True or False).
+
+ if
+if-else
+if-elif-else
+Nested if (if inside another if)
+
+Syntax of if Statement 
+if condition:
+# block of code
+
+Flow of Execution :
+Python checks the condition.
+If condition is True, the code inside if block runs.
+If condition is False, nothing inside the block runs.
+
+Syntax of if-else Statement
+if condition:
+    # executes if condition is True
+else:
+    # executes if condition is False
+
+ Flow of Execution :
+Condition is evaluated.
+If True → if block runs.
+If False → else block runs.
