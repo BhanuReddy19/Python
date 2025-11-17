@@ -45,6 +45,9 @@ print(type(x))
 x = 7.7  # x is now float
 print(type(x))
 
+Y = True
+print(type(Y))
+
 # Just use the variable name inside the print() function. To access a variable and print its value
 name = "Divya"
 age = 24
