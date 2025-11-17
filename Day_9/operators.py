@@ -63,6 +63,9 @@ print("Substraction :", sub_res)
 multi_res = A*B
 print("Multiplication :", multi_res)
 
+multi_res = A**B
+print("Multiplication :", multi_res)
+
 div_res = A/B
 print("Division :", div_res)
 
