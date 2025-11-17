@@ -1,0 +1,16 @@
+Flow of Execution – if-elif-else Statement
+
+Check the if condition first
+If the condition is True, execute the if block
+
+Skip all other elif and else parts
+
+If the if condition is False, then Python checks the first elif condition
+
+If True, execute that block
+Skip remaining elif and else
+
+If all if and elif conditions are False, then the else block will execute
+else has no condition
+
+It is the “default” block
