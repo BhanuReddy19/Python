@@ -1,0 +1,128 @@
+# Positional arguments
+def add(a, b):
+    print(a + b)
+
+add(10, 20)   
+
+def sub(a,b):
+    print(a-b)
+sub(40,50)
+
+def greet(first, last):
+    print("Hello", first, last)
+
+greet("RR","Geeks")
+
+def greet(first,last):
+    print("Hi",first,last)
+greet("Man","Young")
+
+# Keyword Arguments
+def add(a,b):
+    print(a+b)
+add(b=40,a=45)
+
+def greet(first,last):
+    print("Hi",first,last)
+greet(first="Young",last="Man")
+
+#Mandatory Arguments
+def mul(a, b):
+    return a * b
+print(mul(10, 20))
+
+# Optional Arguments
+def greet(name="RR"):
+    print("Hello", name)
+
+greet()
+greet("Bhanu")
+
+#Function with two mandatory numbers — return sum
+def add(a,b):
+    return a + b
+print(add(70,80))
+
+#Function to check even or odd
+def check_even_odd(num):
+    if num % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+
+print(check_even_odd(9))
+
+#Function to return largest of two numbers
+def largest(a, b):
+    if a > b:
+        return a
+    else:
+        return b
+
+print(largest(98, 85))
+
+# Function to return largest of two numbers
+def largest(a,b):
+    if a > b:
+        return a
+    else:
+        return b
+print(largest(76,87))
+
+# Function to check positive, negative, or zero
+def check_number(n):
+    if n > 0:
+        return "positive"
+    elif n < 0:
+        return "negative"
+    else:
+        return "Zero"
+print(check_number(-97))
+
+#Function to check leap year
+def is_leap_year(year):
+    if (year % 400 == 0) or (year % 4 == 0 and year % 100 != 0):
+        return "Leap Year"
+    else:
+        return "Not a Leap Year"
+print(is_leap_year(3098))
+
+#Functions with Default (Optional) Arguments
+#Simple interest where rate has default value
+def simple_interest(p, t, r=4):
+    return (p * t * r) / 100
+print(simple_interest(1000, 2))      
+print(simple_interest(1000, 2, 10))   
+
+#Greeting with default name
+def greet(name="Guest"):
+    print("Hello,", name)
+greet()
+greet("Bhanu")
+
+#Area of rectangle (width optional → square)
+def area(length, width=None):
+    if width is None:
+        return length * length   
+    else:
+        return length * width   
+print(area(9))       
+print(area(9, 10)) 
+
+#Final price after discount (default 10%)
+def final_price(price, discount=10):
+    return price - (price * discount / 100)
+print(final_price(1000))
+
+#Celsius to Fahrenheit (default = 25°C)
+def c_to_f(c=25):
+    return (c * 9/5) + 32
+print(c_to_f())     
+print(c_to_f(1))    
+
+
+
+
+
+
+
