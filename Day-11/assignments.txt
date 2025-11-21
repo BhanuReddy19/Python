@@ -1,0 +1,6 @@
+1. What are relational and assignment operators. Please list down with the brief explaination. 
+2. Write some programs on each operator.
+3. What are conditional statements. Write the syntax with the flow of execution explaination.
+4. Write some programs on all the conditional statements(if, if-else).
+5. Write the flow of execution of if-elif conditional statement.
+6 Write some programs on all the conditional statements(if, if-else, if-elif).
