@@ -23,4 +23,4 @@ B. Functions with Optional (Default) Arguments.
 
 4. Write a function that returns the final price after discount. Discount should be an optional argument with default 10%.
 
-5. Write a function that accepts a temperature in Celsius and converts it to Fahrenheit. If no value is given, use default 25°C.
+5. Write a function that accepts a temperature in Celsius and converts it to Fahrenheit. If no value is given, use default 25°C..
