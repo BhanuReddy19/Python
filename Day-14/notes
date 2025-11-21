@@ -1,4 +1,4 @@
 Positional arguments are passed in the correct order.
 Keyword arguments are passed using variable names, order does not matter.
 Mandatory Arguments --- We must pass values, otherwise Python gives an error.
-Default / Optional Arguments ---If we do not pass a value, Python uses the default.
+Default / Optional Arguments ---If we do not pass a value, Python uses the default..git
