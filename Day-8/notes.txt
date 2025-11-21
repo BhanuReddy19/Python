@@ -1,0 +1,5 @@
+Reassignment means assigning a new value to an already existing variable.
+The assignment operator (=) is used to assign a value to a variable.
+ We don’t need to declare the data type of a variable explicitly. The type is determined automatically at runtime based on the assigned value.
+We can Just use the variable name inside the print() function. To access a variable and print its value
+Yes, we can access and print a variable after it has been declared and assigned a value.But if we can  try to access it before declaration, we will get an error.

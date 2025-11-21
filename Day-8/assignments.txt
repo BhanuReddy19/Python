@@ -1,0 +1,7 @@
+1. What is the syntax of Variable for declare and define. Please write some programs to declare and define all the data types of variables that we discussed.
+2. If I say, can you declare a variable of type string, how do you do. 
+3. What is reassignment? How do you do this.
+4. What is assignment operator. What is the usage of it.
+5. What do you mean by `Python is a dynamic typing language`. Can you please give a brief explaination with some examples. 
+6. How do I access a variable and pint the value of it.
+7. Can I declare a variable and access it for printing. If Yes/No Why and How.
