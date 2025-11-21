@@ -1,0 +1,26 @@
+1. What are positional and keyword arguments. Write multiple examples on them.
+2. What are default and mandatory arguments. Write multiple examples on them.
+
+A. Functions with Mandatory Arguments
+
+1. Write a program to create a function that takes two numbers as mandatory arguments and returns their sum.
+
+2. Write a function that accepts a number and returns whether it is even or odd.
+
+3. Write a function that takes two numbers and returns the largest one.
+
+4. Write a function that accepts a number and returns whether it is positive, negative, or zero.
+
+5. Write a function that takes a year and returns whether it is a leap year or not.
+
+B. Functions with Optional (Default) Arguments. 
+
+1. Write a function to calculate simple interest where the rate has a default value.
+
+2. Write a function that prints a greeting message. If no name is passed, it should greet as "Hello, Guest".
+
+3. Write a function to calculate the area of a rectangle where width is optional (if width is missing, treat it as a square).
+
+4. Write a function that returns the final price after discount. Discount should be an optional argument with default 10%.
+
+5. Write a function that accepts a temperature in Celsius and converts it to Fahrenheit. If no value is given, use default 25°C.
