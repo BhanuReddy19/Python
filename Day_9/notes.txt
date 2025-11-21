@@ -1,0 +1,41 @@
+ Rules for Naming Convention of a Variable.
+
+# 1. We are using A-z characters.
+# 2. Numbers can be utilized in the variable names. At the same time, the variable name should not start with numbers.
+# 3. Special characters => _(Underscore) only allowed
+# !, @,#,$,%,^ etc are not allowed.
+
+age: int = 24 # Good Practice to start variable with smaller case.
+
+
+# Operators : In Python, operators are special symbols or keywords used to perform operations on variables and values.
+#Arithmetical Operators : Used to perform basic mathematical operations.
+#Logical Operators : Used to combine conditional statements.
+#Comparison operators
+
+"""
+Arithmetical Operators => +, -,*,/,%
+Logical Operators => AND, OR
+
+"""
+#add_res = A+ B
+#sub_res = A-B
+#multi_res = A*B
+#div_res = A/B
+# mod_res = A%B
+
+
+# Logical Operators =>  AND, OR, NOT
+
+
+# True and False => 1 and 0
+
+"""
+AND =>                               OR =>                 NOT =>
+
+True => 1 False => 0                
+
+1 AND 0 = 0                         0 OR 1 = 1             not of 0 => 1                   
+1 AND 1 = 1                         1 OR 0 = 1             not of 1 => 0
+0 AND 1 = 0                         0 OR 0 = 0
+0 AND 0 = 0                         1 OR 1 = 1
